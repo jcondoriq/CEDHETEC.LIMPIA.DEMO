@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "uLkCDsTMBIk=",
+  "success": true,
+  "projectFilePath": "C:\\3. Cedhetec\\3. Cursos dictados\\2. Arquitecturta limpia\\CEDHETEC.LIMPIA.DEMO\\CEDHETEC.LIMPIA.DEMO\\CEDHETEC.LIMPIA.DEMO.UseCases\\CEDHETEC.LIMPIA.DEMO.UseCases.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jonat\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.0\\microsoft.extensions.dependencyinjection.abstractions.9.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

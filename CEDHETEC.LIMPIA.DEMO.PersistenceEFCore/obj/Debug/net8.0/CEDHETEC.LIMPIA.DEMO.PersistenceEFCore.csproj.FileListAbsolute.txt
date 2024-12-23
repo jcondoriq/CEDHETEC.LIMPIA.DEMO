@@ -1,0 +1,15 @@
+C:\3. Cedhetec\3. Cursos dictados\2. Arquitecturta limpia\CEDHETEC.LIMPIA.DEMO\CEDHETEC.LIMPIA.DEMO\CEDHETEC.LIMPIA.DEMO.PersistenceEFCore\bin\Debug\net8.0\CEDHETEC.LIMPIA.DEMO.PersistenceEFCore.deps.json
+C:\3. Cedhetec\3. Cursos dictados\2. Arquitecturta limpia\CEDHETEC.LIMPIA.DEMO\CEDHETEC.LIMPIA.DEMO\CEDHETEC.LIMPIA.DEMO.PersistenceEFCore\bin\Debug\net8.0\CEDHETEC.LIMPIA.DEMO.PersistenceEFCore.dll
+C:\3. Cedhetec\3. Cursos dictados\2. Arquitecturta limpia\CEDHETEC.LIMPIA.DEMO\CEDHETEC.LIMPIA.DEMO\CEDHETEC.LIMPIA.DEMO.PersistenceEFCore\bin\Debug\net8.0\CEDHETEC.LIMPIA.DEMO.PersistenceEFCore.pdb
+C:\3. Cedhetec\3. Cursos dictados\2. Arquitecturta limpia\CEDHETEC.LIMPIA.DEMO\CEDHETEC.LIMPIA.DEMO\CEDHETEC.LIMPIA.DEMO.PersistenceEFCore\bin\Debug\net8.0\CEDHETEC.LIMPIA.DEMO.Entities.dll
+C:\3. Cedhetec\3. Cursos dictados\2. Arquitecturta limpia\CEDHETEC.LIMPIA.DEMO\CEDHETEC.LIMPIA.DEMO\CEDHETEC.LIMPIA.DEMO.PersistenceEFCore\bin\Debug\net8.0\CEDHETEC.LIMPIA.DEMO.Entities.pdb
+C:\3. Cedhetec\3. Cursos dictados\2. Arquitecturta limpia\CEDHETEC.LIMPIA.DEMO\CEDHETEC.LIMPIA.DEMO\CEDHETEC.LIMPIA.DEMO.PersistenceEFCore\obj\Debug\net8.0\CEDHETEC.LIMPIA.DEMO.PersistenceEFCore.csproj.AssemblyReference.cache
+C:\3. Cedhetec\3. Cursos dictados\2. Arquitecturta limpia\CEDHETEC.LIMPIA.DEMO\CEDHETEC.LIMPIA.DEMO\CEDHETEC.LIMPIA.DEMO.PersistenceEFCore\obj\Debug\net8.0\CEDHETEC.LIMPIA.DEMO.PersistenceEFCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\3. Cedhetec\3. Cursos dictados\2. Arquitecturta limpia\CEDHETEC.LIMPIA.DEMO\CEDHETEC.LIMPIA.DEMO\CEDHETEC.LIMPIA.DEMO.PersistenceEFCore\obj\Debug\net8.0\CEDHETEC.LIMPIA.DEMO.PersistenceEFCore.AssemblyInfoInputs.cache
+C:\3. Cedhetec\3. Cursos dictados\2. Arquitecturta limpia\CEDHETEC.LIMPIA.DEMO\CEDHETEC.LIMPIA.DEMO\CEDHETEC.LIMPIA.DEMO.PersistenceEFCore\obj\Debug\net8.0\CEDHETEC.LIMPIA.DEMO.PersistenceEFCore.AssemblyInfo.cs
+C:\3. Cedhetec\3. Cursos dictados\2. Arquitecturta limpia\CEDHETEC.LIMPIA.DEMO\CEDHETEC.LIMPIA.DEMO\CEDHETEC.LIMPIA.DEMO.PersistenceEFCore\obj\Debug\net8.0\CEDHETEC.LIMPIA.DEMO.PersistenceEFCore.csproj.CoreCompileInputs.cache
+C:\3. Cedhetec\3. Cursos dictados\2. Arquitecturta limpia\CEDHETEC.LIMPIA.DEMO\CEDHETEC.LIMPIA.DEMO\CEDHETEC.LIMPIA.DEMO.PersistenceEFCore\obj\Debug\net8.0\CEDHETEC.7C0DA3E1.Up2Date
+C:\3. Cedhetec\3. Cursos dictados\2. Arquitecturta limpia\CEDHETEC.LIMPIA.DEMO\CEDHETEC.LIMPIA.DEMO\CEDHETEC.LIMPIA.DEMO.PersistenceEFCore\obj\Debug\net8.0\CEDHETEC.LIMPIA.DEMO.PersistenceEFCore.dll
+C:\3. Cedhetec\3. Cursos dictados\2. Arquitecturta limpia\CEDHETEC.LIMPIA.DEMO\CEDHETEC.LIMPIA.DEMO\CEDHETEC.LIMPIA.DEMO.PersistenceEFCore\obj\Debug\net8.0\refint\CEDHETEC.LIMPIA.DEMO.PersistenceEFCore.dll
+C:\3. Cedhetec\3. Cursos dictados\2. Arquitecturta limpia\CEDHETEC.LIMPIA.DEMO\CEDHETEC.LIMPIA.DEMO\CEDHETEC.LIMPIA.DEMO.PersistenceEFCore\obj\Debug\net8.0\CEDHETEC.LIMPIA.DEMO.PersistenceEFCore.pdb
+C:\3. Cedhetec\3. Cursos dictados\2. Arquitecturta limpia\CEDHETEC.LIMPIA.DEMO\CEDHETEC.LIMPIA.DEMO\CEDHETEC.LIMPIA.DEMO.PersistenceEFCore\obj\Debug\net8.0\ref\CEDHETEC.LIMPIA.DEMO.PersistenceEFCore.dll

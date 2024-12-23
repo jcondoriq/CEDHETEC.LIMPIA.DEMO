@@ -1,0 +1,497 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\3. Cedhetec\\3. Cursos dictados\\2. Arquitecturta limpia\\CEDHETEC.LIMPIA.DEMO\\CEDHETEC.LIMPIA.DEMO\\CEDHETEC.LIMPIA.DEMO.WebApi\\CEDHETEC.LIMPIA.DEMO.WebApi.csproj": {}
+  },
+  "projects": {
+    "C:\\3. Cedhetec\\3. Cursos dictados\\2. Arquitecturta limpia\\CEDHETEC.LIMPIA.DEMO\\CEDHETEC.LIMPIA.DEMO\\CEDHETEC.LIMPIA.DEMO.Entities\\CEDHETEC.LIMPIA.DEMO.Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\3. Cedhetec\\3. Cursos dictados\\2. Arquitecturta limpia\\CEDHETEC.LIMPIA.DEMO\\CEDHETEC.LIMPIA.DEMO\\CEDHETEC.LIMPIA.DEMO.Entities\\CEDHETEC.LIMPIA.DEMO.Entities.csproj",
+        "projectName": "CEDHETEC.LIMPIA.DEMO.Entities",
+        "projectPath": "C:\\3. Cedhetec\\3. Cursos dictados\\2. Arquitecturta limpia\\CEDHETEC.LIMPIA.DEMO\\CEDHETEC.LIMPIA.DEMO\\CEDHETEC.LIMPIA.DEMO.Entities\\CEDHETEC.LIMPIA.DEMO.Entities.csproj",
+        "packagesPath": "C:\\Users\\jonat\\.nuget\\packages\\",
+        "outputPath": "C:\\3. Cedhetec\\3. Cursos dictados\\2. Arquitecturta limpia\\CEDHETEC.LIMPIA.DEMO\\CEDHETEC.LIMPIA.DEMO\\CEDHETEC.LIMPIA.DEMO.Entities\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\jonat\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\3. Cedhetec\\3. Cursos dictados\\2. Arquitecturta limpia\\CEDHETEC.LIMPIA.DEMO\\CEDHETEC.LIMPIA.DEMO\\CEDHETEC.LIMPIA.DEMO.PersistenceEFCore\\CEDHETEC.LIMPIA.DEMO.PersistenceEFCore.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\3. Cedhetec\\3. Cursos dictados\\2. Arquitecturta limpia\\CEDHETEC.LIMPIA.DEMO\\CEDHETEC.LIMPIA.DEMO\\CEDHETEC.LIMPIA.DEMO.PersistenceEFCore\\CEDHETEC.LIMPIA.DEMO.PersistenceEFCore.csproj",
+        "projectName": "CEDHETEC.LIMPIA.DEMO.PersistenceEFCore",
+        "projectPath": "C:\\3. Cedhetec\\3. Cursos dictados\\2. Arquitecturta limpia\\CEDHETEC.LIMPIA.DEMO\\CEDHETEC.LIMPIA.DEMO\\CEDHETEC.LIMPIA.DEMO.PersistenceEFCore\\CEDHETEC.LIMPIA.DEMO.PersistenceEFCore.csproj",
+        "packagesPath": "C:\\Users\\jonat\\.nuget\\packages\\",
+        "outputPath": "C:\\3. Cedhetec\\3. Cursos dictados\\2. Arquitecturta limpia\\CEDHETEC.LIMPIA.DEMO\\CEDHETEC.LIMPIA.DEMO\\CEDHETEC.LIMPIA.DEMO.PersistenceEFCore\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\jonat\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\3. Cedhetec\\3. Cursos dictados\\2. Arquitecturta limpia\\CEDHETEC.LIMPIA.DEMO\\CEDHETEC.LIMPIA.DEMO\\CEDHETEC.LIMPIA.DEMO.Entities\\CEDHETEC.LIMPIA.DEMO.Entities.csproj": {
+                "projectPath": "C:\\3. Cedhetec\\3. Cursos dictados\\2. Arquitecturta limpia\\CEDHETEC.LIMPIA.DEMO\\CEDHETEC.LIMPIA.DEMO\\CEDHETEC.LIMPIA.DEMO.Entities\\CEDHETEC.LIMPIA.DEMO.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\3. Cedhetec\\3. Cursos dictados\\2. Arquitecturta limpia\\CEDHETEC.LIMPIA.DEMO\\CEDHETEC.LIMPIA.DEMO\\CEDHETEC.LIMPIA.DEMO.Presenters\\CEDHETEC.LIMPIA.DEMO.Presenters.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\3. Cedhetec\\3. Cursos dictados\\2. Arquitecturta limpia\\CEDHETEC.LIMPIA.DEMO\\CEDHETEC.LIMPIA.DEMO\\CEDHETEC.LIMPIA.DEMO.Presenters\\CEDHETEC.LIMPIA.DEMO.Presenters.csproj",
+        "projectName": "CEDHETEC.LIMPIA.DEMO.Presenters",
+        "projectPath": "C:\\3. Cedhetec\\3. Cursos dictados\\2. Arquitecturta limpia\\CEDHETEC.LIMPIA.DEMO\\CEDHETEC.LIMPIA.DEMO\\CEDHETEC.LIMPIA.DEMO.Presenters\\CEDHETEC.LIMPIA.DEMO.Presenters.csproj",
+        "packagesPath": "C:\\Users\\jonat\\.nuget\\packages\\",
+        "outputPath": "C:\\3. Cedhetec\\3. Cursos dictados\\2. Arquitecturta limpia\\CEDHETEC.LIMPIA.DEMO\\CEDHETEC.LIMPIA.DEMO\\CEDHETEC.LIMPIA.DEMO.Presenters\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\jonat\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\3. Cedhetec\\3. Cursos dictados\\2. Arquitecturta limpia\\CEDHETEC.LIMPIA.DEMO\\CEDHETEC.LIMPIA.DEMO\\CEDHETEC.LIMPIA.DEMO.UseCases.Ports\\CEDHETEC.LIMPIA.DEMO.UseCases.Ports.csproj": {
+                "projectPath": "C:\\3. Cedhetec\\3. Cursos dictados\\2. Arquitecturta limpia\\CEDHETEC.LIMPIA.DEMO\\CEDHETEC.LIMPIA.DEMO\\CEDHETEC.LIMPIA.DEMO.UseCases.Ports\\CEDHETEC.LIMPIA.DEMO.UseCases.Ports.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\3. Cedhetec\\3. Cursos dictados\\2. Arquitecturta limpia\\CEDHETEC.LIMPIA.DEMO\\CEDHETEC.LIMPIA.DEMO\\CEDHETEC.LIMPIA.DEMO.UseCases.Ports\\CEDHETEC.LIMPIA.DEMO.UseCases.Ports.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\3. Cedhetec\\3. Cursos dictados\\2. Arquitecturta limpia\\CEDHETEC.LIMPIA.DEMO\\CEDHETEC.LIMPIA.DEMO\\CEDHETEC.LIMPIA.DEMO.UseCases.Ports\\CEDHETEC.LIMPIA.DEMO.UseCases.Ports.csproj",
+        "projectName": "CEDHETEC.LIMPIA.DEMO.UseCases.Ports",
+        "projectPath": "C:\\3. Cedhetec\\3. Cursos dictados\\2. Arquitecturta limpia\\CEDHETEC.LIMPIA.DEMO\\CEDHETEC.LIMPIA.DEMO\\CEDHETEC.LIMPIA.DEMO.UseCases.Ports\\CEDHETEC.LIMPIA.DEMO.UseCases.Ports.csproj",
+        "packagesPath": "C:\\Users\\jonat\\.nuget\\packages\\",
+        "outputPath": "C:\\3. Cedhetec\\3. Cursos dictados\\2. Arquitecturta limpia\\CEDHETEC.LIMPIA.DEMO\\CEDHETEC.LIMPIA.DEMO\\CEDHETEC.LIMPIA.DEMO.UseCases.Ports\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\jonat\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\3. Cedhetec\\3. Cursos dictados\\2. Arquitecturta limpia\\CEDHETEC.LIMPIA.DEMO\\CEDHETEC.LIMPIA.DEMO\\CEDHETEC.LIMPIA.DEMO.UseCases\\CEDHETEC.LIMPIA.DEMO.UseCases.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\3. Cedhetec\\3. Cursos dictados\\2. Arquitecturta limpia\\CEDHETEC.LIMPIA.DEMO\\CEDHETEC.LIMPIA.DEMO\\CEDHETEC.LIMPIA.DEMO.UseCases\\CEDHETEC.LIMPIA.DEMO.UseCases.csproj",
+        "projectName": "CEDHETEC.LIMPIA.DEMO.UseCases",
+        "projectPath": "C:\\3. Cedhetec\\3. Cursos dictados\\2. Arquitecturta limpia\\CEDHETEC.LIMPIA.DEMO\\CEDHETEC.LIMPIA.DEMO\\CEDHETEC.LIMPIA.DEMO.UseCases\\CEDHETEC.LIMPIA.DEMO.UseCases.csproj",
+        "packagesPath": "C:\\Users\\jonat\\.nuget\\packages\\",
+        "outputPath": "C:\\3. Cedhetec\\3. Cursos dictados\\2. Arquitecturta limpia\\CEDHETEC.LIMPIA.DEMO\\CEDHETEC.LIMPIA.DEMO\\CEDHETEC.LIMPIA.DEMO.UseCases\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\jonat\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\3. Cedhetec\\3. Cursos dictados\\2. Arquitecturta limpia\\CEDHETEC.LIMPIA.DEMO\\CEDHETEC.LIMPIA.DEMO\\CEDHETEC.LIMPIA.DEMO.Entities\\CEDHETEC.LIMPIA.DEMO.Entities.csproj": {
+                "projectPath": "C:\\3. Cedhetec\\3. Cursos dictados\\2. Arquitecturta limpia\\CEDHETEC.LIMPIA.DEMO\\CEDHETEC.LIMPIA.DEMO\\CEDHETEC.LIMPIA.DEMO.Entities\\CEDHETEC.LIMPIA.DEMO.Entities.csproj"
+              },
+              "C:\\3. Cedhetec\\3. Cursos dictados\\2. Arquitecturta limpia\\CEDHETEC.LIMPIA.DEMO\\CEDHETEC.LIMPIA.DEMO\\CEDHETEC.LIMPIA.DEMO.UseCases.Ports\\CEDHETEC.LIMPIA.DEMO.UseCases.Ports.csproj": {
+                "projectPath": "C:\\3. Cedhetec\\3. Cursos dictados\\2. Arquitecturta limpia\\CEDHETEC.LIMPIA.DEMO\\CEDHETEC.LIMPIA.DEMO\\CEDHETEC.LIMPIA.DEMO.UseCases.Ports\\CEDHETEC.LIMPIA.DEMO.UseCases.Ports.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\3. Cedhetec\\3. Cursos dictados\\2. Arquitecturta limpia\\CEDHETEC.LIMPIA.DEMO\\CEDHETEC.LIMPIA.DEMO\\CEDHETEC.LIMPIA.DEMO.WebApi\\CEDHETEC.LIMPIA.DEMO.WebApi.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\3. Cedhetec\\3. Cursos dictados\\2. Arquitecturta limpia\\CEDHETEC.LIMPIA.DEMO\\CEDHETEC.LIMPIA.DEMO\\CEDHETEC.LIMPIA.DEMO.WebApi\\CEDHETEC.LIMPIA.DEMO.WebApi.csproj",
+        "projectName": "CEDHETEC.LIMPIA.DEMO.WebApi",
+        "projectPath": "C:\\3. Cedhetec\\3. Cursos dictados\\2. Arquitecturta limpia\\CEDHETEC.LIMPIA.DEMO\\CEDHETEC.LIMPIA.DEMO\\CEDHETEC.LIMPIA.DEMO.WebApi\\CEDHETEC.LIMPIA.DEMO.WebApi.csproj",
+        "packagesPath": "C:\\Users\\jonat\\.nuget\\packages\\",
+        "outputPath": "C:\\3. Cedhetec\\3. Cursos dictados\\2. Arquitecturta limpia\\CEDHETEC.LIMPIA.DEMO\\CEDHETEC.LIMPIA.DEMO\\CEDHETEC.LIMPIA.DEMO.WebApi\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\jonat\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\3. Cedhetec\\3. Cursos dictados\\2. Arquitecturta limpia\\CEDHETEC.LIMPIA.DEMO\\CEDHETEC.LIMPIA.DEMO\\CEDHETEC.LIMPIA.DEMO.PersistenceEFCore\\CEDHETEC.LIMPIA.DEMO.PersistenceEFCore.csproj": {
+                "projectPath": "C:\\3. Cedhetec\\3. Cursos dictados\\2. Arquitecturta limpia\\CEDHETEC.LIMPIA.DEMO\\CEDHETEC.LIMPIA.DEMO\\CEDHETEC.LIMPIA.DEMO.PersistenceEFCore\\CEDHETEC.LIMPIA.DEMO.PersistenceEFCore.csproj"
+              },
+              "C:\\3. Cedhetec\\3. Cursos dictados\\2. Arquitecturta limpia\\CEDHETEC.LIMPIA.DEMO\\CEDHETEC.LIMPIA.DEMO\\CEDHETEC.LIMPIA.DEMO.Presenters\\CEDHETEC.LIMPIA.DEMO.Presenters.csproj": {
+                "projectPath": "C:\\3. Cedhetec\\3. Cursos dictados\\2. Arquitecturta limpia\\CEDHETEC.LIMPIA.DEMO\\CEDHETEC.LIMPIA.DEMO\\CEDHETEC.LIMPIA.DEMO.Presenters\\CEDHETEC.LIMPIA.DEMO.Presenters.csproj"
+              },
+              "C:\\3. Cedhetec\\3. Cursos dictados\\2. Arquitecturta limpia\\CEDHETEC.LIMPIA.DEMO\\CEDHETEC.LIMPIA.DEMO\\CEDHETEC.LIMPIA.DEMO.UseCases\\CEDHETEC.LIMPIA.DEMO.UseCases.csproj": {
+                "projectPath": "C:\\3. Cedhetec\\3. Cursos dictados\\2. Arquitecturta limpia\\CEDHETEC.LIMPIA.DEMO\\CEDHETEC.LIMPIA.DEMO\\CEDHETEC.LIMPIA.DEMO.UseCases\\CEDHETEC.LIMPIA.DEMO.UseCases.csproj"
+              },
+              "C:\\3. Cedhetec\\3. Cursos dictados\\2. Arquitecturta limpia\\CEDHETEC.LIMPIA.DEMO\\CEDHETEC.LIMPIA.DEMO\\CEDHETEC.LIMPIA.DEMO\\CEDHETEC.LIMPIA.DEMO.Controllers.csproj": {
+                "projectPath": "C:\\3. Cedhetec\\3. Cursos dictados\\2. Arquitecturta limpia\\CEDHETEC.LIMPIA.DEMO\\CEDHETEC.LIMPIA.DEMO\\CEDHETEC.LIMPIA.DEMO\\CEDHETEC.LIMPIA.DEMO.Controllers.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\3. Cedhetec\\3. Cursos dictados\\2. Arquitecturta limpia\\CEDHETEC.LIMPIA.DEMO\\CEDHETEC.LIMPIA.DEMO\\CEDHETEC.LIMPIA.DEMO\\CEDHETEC.LIMPIA.DEMO.Controllers.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\3. Cedhetec\\3. Cursos dictados\\2. Arquitecturta limpia\\CEDHETEC.LIMPIA.DEMO\\CEDHETEC.LIMPIA.DEMO\\CEDHETEC.LIMPIA.DEMO\\CEDHETEC.LIMPIA.DEMO.Controllers.csproj",
+        "projectName": "CEDHETEC.LIMPIA.DEMO.Controllers",
+        "projectPath": "C:\\3. Cedhetec\\3. Cursos dictados\\2. Arquitecturta limpia\\CEDHETEC.LIMPIA.DEMO\\CEDHETEC.LIMPIA.DEMO\\CEDHETEC.LIMPIA.DEMO\\CEDHETEC.LIMPIA.DEMO.Controllers.csproj",
+        "packagesPath": "C:\\Users\\jonat\\.nuget\\packages\\",
+        "outputPath": "C:\\3. Cedhetec\\3. Cursos dictados\\2. Arquitecturta limpia\\CEDHETEC.LIMPIA.DEMO\\CEDHETEC.LIMPIA.DEMO\\CEDHETEC.LIMPIA.DEMO\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\jonat\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\3. Cedhetec\\3. Cursos dictados\\2. Arquitecturta limpia\\CEDHETEC.LIMPIA.DEMO\\CEDHETEC.LIMPIA.DEMO\\CEDHETEC.LIMPIA.DEMO.Presenters\\CEDHETEC.LIMPIA.DEMO.Presenters.csproj": {
+                "projectPath": "C:\\3. Cedhetec\\3. Cursos dictados\\2. Arquitecturta limpia\\CEDHETEC.LIMPIA.DEMO\\CEDHETEC.LIMPIA.DEMO\\CEDHETEC.LIMPIA.DEMO.Presenters\\CEDHETEC.LIMPIA.DEMO.Presenters.csproj"
+              },
+              "C:\\3. Cedhetec\\3. Cursos dictados\\2. Arquitecturta limpia\\CEDHETEC.LIMPIA.DEMO\\CEDHETEC.LIMPIA.DEMO\\CEDHETEC.LIMPIA.DEMO.UseCases.Ports\\CEDHETEC.LIMPIA.DEMO.UseCases.Ports.csproj": {
+                "projectPath": "C:\\3. Cedhetec\\3. Cursos dictados\\2. Arquitecturta limpia\\CEDHETEC.LIMPIA.DEMO\\CEDHETEC.LIMPIA.DEMO\\CEDHETEC.LIMPIA.DEMO.UseCases.Ports\\CEDHETEC.LIMPIA.DEMO.UseCases.Ports.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

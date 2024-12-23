@@ -1,0 +1,11 @@
+C:\3. Cedhetec\3. Cursos dictados\2. Arquitecturta limpia\CEDHETEC.LIMPIA.DEMO\CEDHETEC.LIMPIA.DEMO\CEDHETEC.LIMPIA.DEMO.UseCases.Ports\obj\Debug\net8.0\CEDHETEC.LIMPIA.DEMO.UseCases.Ports.GeneratedMSBuildEditorConfig.editorconfig
+C:\3. Cedhetec\3. Cursos dictados\2. Arquitecturta limpia\CEDHETEC.LIMPIA.DEMO\CEDHETEC.LIMPIA.DEMO\CEDHETEC.LIMPIA.DEMO.UseCases.Ports\obj\Debug\net8.0\CEDHETEC.LIMPIA.DEMO.UseCases.Ports.AssemblyInfoInputs.cache
+C:\3. Cedhetec\3. Cursos dictados\2. Arquitecturta limpia\CEDHETEC.LIMPIA.DEMO\CEDHETEC.LIMPIA.DEMO\CEDHETEC.LIMPIA.DEMO.UseCases.Ports\obj\Debug\net8.0\CEDHETEC.LIMPIA.DEMO.UseCases.Ports.AssemblyInfo.cs
+C:\3. Cedhetec\3. Cursos dictados\2. Arquitecturta limpia\CEDHETEC.LIMPIA.DEMO\CEDHETEC.LIMPIA.DEMO\CEDHETEC.LIMPIA.DEMO.UseCases.Ports\obj\Debug\net8.0\CEDHETEC.LIMPIA.DEMO.UseCases.Ports.csproj.CoreCompileInputs.cache
+C:\3. Cedhetec\3. Cursos dictados\2. Arquitecturta limpia\CEDHETEC.LIMPIA.DEMO\CEDHETEC.LIMPIA.DEMO\CEDHETEC.LIMPIA.DEMO.UseCases.Ports\bin\Debug\net8.0\CEDHETEC.LIMPIA.DEMO.UseCases.Ports.deps.json
+C:\3. Cedhetec\3. Cursos dictados\2. Arquitecturta limpia\CEDHETEC.LIMPIA.DEMO\CEDHETEC.LIMPIA.DEMO\CEDHETEC.LIMPIA.DEMO.UseCases.Ports\bin\Debug\net8.0\CEDHETEC.LIMPIA.DEMO.UseCases.Ports.dll
+C:\3. Cedhetec\3. Cursos dictados\2. Arquitecturta limpia\CEDHETEC.LIMPIA.DEMO\CEDHETEC.LIMPIA.DEMO\CEDHETEC.LIMPIA.DEMO.UseCases.Ports\bin\Debug\net8.0\CEDHETEC.LIMPIA.DEMO.UseCases.Ports.pdb
+C:\3. Cedhetec\3. Cursos dictados\2. Arquitecturta limpia\CEDHETEC.LIMPIA.DEMO\CEDHETEC.LIMPIA.DEMO\CEDHETEC.LIMPIA.DEMO.UseCases.Ports\obj\Debug\net8.0\CEDHETEC.LIMPIA.DEMO.UseCases.Ports.dll
+C:\3. Cedhetec\3. Cursos dictados\2. Arquitecturta limpia\CEDHETEC.LIMPIA.DEMO\CEDHETEC.LIMPIA.DEMO\CEDHETEC.LIMPIA.DEMO.UseCases.Ports\obj\Debug\net8.0\refint\CEDHETEC.LIMPIA.DEMO.UseCases.Ports.dll
+C:\3. Cedhetec\3. Cursos dictados\2. Arquitecturta limpia\CEDHETEC.LIMPIA.DEMO\CEDHETEC.LIMPIA.DEMO\CEDHETEC.LIMPIA.DEMO.UseCases.Ports\obj\Debug\net8.0\CEDHETEC.LIMPIA.DEMO.UseCases.Ports.pdb
+C:\3. Cedhetec\3. Cursos dictados\2. Arquitecturta limpia\CEDHETEC.LIMPIA.DEMO\CEDHETEC.LIMPIA.DEMO\CEDHETEC.LIMPIA.DEMO.UseCases.Ports\obj\Debug\net8.0\ref\CEDHETEC.LIMPIA.DEMO.UseCases.Ports.dll

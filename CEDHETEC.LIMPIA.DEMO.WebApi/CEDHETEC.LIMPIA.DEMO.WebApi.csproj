@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.4.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\CEDHETEC.LIMPIA.DEMO.PersistenceEFCore\CEDHETEC.LIMPIA.DEMO.PersistenceEFCore.csproj" />
+    <ProjectReference Include="..\CEDHETEC.LIMPIA.DEMO.Presenters\CEDHETEC.LIMPIA.DEMO.Presenters.csproj" />
+    <ProjectReference Include="..\CEDHETEC.LIMPIA.DEMO.UseCases\CEDHETEC.LIMPIA.DEMO.UseCases.csproj" />
+    <ProjectReference Include="..\CEDHETEC.LIMPIA.DEMO\CEDHETEC.LIMPIA.DEMO.Controllers.csproj" />
+  </ItemGroup>
+
+</Project>

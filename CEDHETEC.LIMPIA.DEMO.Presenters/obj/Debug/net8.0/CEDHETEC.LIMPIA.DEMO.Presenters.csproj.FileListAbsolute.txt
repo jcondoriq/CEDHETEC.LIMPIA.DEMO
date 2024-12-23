@@ -1,0 +1,15 @@
+C:\3. Cedhetec\3. Cursos dictados\2. Arquitecturta limpia\CEDHETEC.LIMPIA.DEMO\CEDHETEC.LIMPIA.DEMO\CEDHETEC.LIMPIA.DEMO.Presenters\obj\Debug\net8.0\CEDHETEC.LIMPIA.DEMO.Presenters.GeneratedMSBuildEditorConfig.editorconfig
+C:\3. Cedhetec\3. Cursos dictados\2. Arquitecturta limpia\CEDHETEC.LIMPIA.DEMO\CEDHETEC.LIMPIA.DEMO\CEDHETEC.LIMPIA.DEMO.Presenters\obj\Debug\net8.0\CEDHETEC.LIMPIA.DEMO.Presenters.AssemblyInfoInputs.cache
+C:\3. Cedhetec\3. Cursos dictados\2. Arquitecturta limpia\CEDHETEC.LIMPIA.DEMO\CEDHETEC.LIMPIA.DEMO\CEDHETEC.LIMPIA.DEMO.Presenters\obj\Debug\net8.0\CEDHETEC.LIMPIA.DEMO.Presenters.AssemblyInfo.cs
+C:\3. Cedhetec\3. Cursos dictados\2. Arquitecturta limpia\CEDHETEC.LIMPIA.DEMO\CEDHETEC.LIMPIA.DEMO\CEDHETEC.LIMPIA.DEMO.Presenters\obj\Debug\net8.0\CEDHETEC.LIMPIA.DEMO.Presenters.csproj.CoreCompileInputs.cache
+C:\3. Cedhetec\3. Cursos dictados\2. Arquitecturta limpia\CEDHETEC.LIMPIA.DEMO\CEDHETEC.LIMPIA.DEMO\CEDHETEC.LIMPIA.DEMO.Presenters\bin\Debug\net8.0\CEDHETEC.LIMPIA.DEMO.Presenters.deps.json
+C:\3. Cedhetec\3. Cursos dictados\2. Arquitecturta limpia\CEDHETEC.LIMPIA.DEMO\CEDHETEC.LIMPIA.DEMO\CEDHETEC.LIMPIA.DEMO.Presenters\bin\Debug\net8.0\CEDHETEC.LIMPIA.DEMO.Presenters.dll
+C:\3. Cedhetec\3. Cursos dictados\2. Arquitecturta limpia\CEDHETEC.LIMPIA.DEMO\CEDHETEC.LIMPIA.DEMO\CEDHETEC.LIMPIA.DEMO.Presenters\bin\Debug\net8.0\CEDHETEC.LIMPIA.DEMO.Presenters.pdb
+C:\3. Cedhetec\3. Cursos dictados\2. Arquitecturta limpia\CEDHETEC.LIMPIA.DEMO\CEDHETEC.LIMPIA.DEMO\CEDHETEC.LIMPIA.DEMO.Presenters\bin\Debug\net8.0\CEDHETEC.LIMPIA.DEMO.UseCases.Ports.dll
+C:\3. Cedhetec\3. Cursos dictados\2. Arquitecturta limpia\CEDHETEC.LIMPIA.DEMO\CEDHETEC.LIMPIA.DEMO\CEDHETEC.LIMPIA.DEMO.Presenters\bin\Debug\net8.0\CEDHETEC.LIMPIA.DEMO.UseCases.Ports.pdb
+C:\3. Cedhetec\3. Cursos dictados\2. Arquitecturta limpia\CEDHETEC.LIMPIA.DEMO\CEDHETEC.LIMPIA.DEMO\CEDHETEC.LIMPIA.DEMO.Presenters\obj\Debug\net8.0\CEDHETEC.LIMPIA.DEMO.Presenters.csproj.AssemblyReference.cache
+C:\3. Cedhetec\3. Cursos dictados\2. Arquitecturta limpia\CEDHETEC.LIMPIA.DEMO\CEDHETEC.LIMPIA.DEMO\CEDHETEC.LIMPIA.DEMO.Presenters\obj\Debug\net8.0\CEDHETEC.9386CCAF.Up2Date
+C:\3. Cedhetec\3. Cursos dictados\2. Arquitecturta limpia\CEDHETEC.LIMPIA.DEMO\CEDHETEC.LIMPIA.DEMO\CEDHETEC.LIMPIA.DEMO.Presenters\obj\Debug\net8.0\CEDHETEC.LIMPIA.DEMO.Presenters.dll
+C:\3. Cedhetec\3. Cursos dictados\2. Arquitecturta limpia\CEDHETEC.LIMPIA.DEMO\CEDHETEC.LIMPIA.DEMO\CEDHETEC.LIMPIA.DEMO.Presenters\obj\Debug\net8.0\refint\CEDHETEC.LIMPIA.DEMO.Presenters.dll
+C:\3. Cedhetec\3. Cursos dictados\2. Arquitecturta limpia\CEDHETEC.LIMPIA.DEMO\CEDHETEC.LIMPIA.DEMO\CEDHETEC.LIMPIA.DEMO.Presenters\obj\Debug\net8.0\CEDHETEC.LIMPIA.DEMO.Presenters.pdb
+C:\3. Cedhetec\3. Cursos dictados\2. Arquitecturta limpia\CEDHETEC.LIMPIA.DEMO\CEDHETEC.LIMPIA.DEMO\CEDHETEC.LIMPIA.DEMO.Presenters\obj\Debug\net8.0\ref\CEDHETEC.LIMPIA.DEMO.Presenters.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "CEDHETEC.LIMPIA.DEMO.UseCases.Ports/1.0.0": {
+        "runtime": {
+          "CEDHETEC.LIMPIA.DEMO.UseCases.Ports.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CEDHETEC.LIMPIA.DEMO.UseCases.Ports/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

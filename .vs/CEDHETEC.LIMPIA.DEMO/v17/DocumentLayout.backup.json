@@ -1,0 +1,343 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\3. Cedhetec\\3. Cursos dictados\\2. Arquitecturta limpia\\CEDHETEC.LIMPIA.DEMO\\CEDHETEC.LIMPIA.DEMO\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6A70EDC6-8653-4F35-A457-614E606C3F2D}|CEDHETEC.LIMPIA.DEMO.WebApi\\CEDHETEC.LIMPIA.DEMO.WebApi.csproj|c:\\3. cedhetec\\3. cursos dictados\\2. arquitecturta limpia\\cedhetec.limpia.demo\\cedhetec.limpia.demo\\cedhetec.limpia.demo.webapi\\controllers\\registerstudentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A70EDC6-8653-4F35-A457-614E606C3F2D}|CEDHETEC.LIMPIA.DEMO.WebApi\\CEDHETEC.LIMPIA.DEMO.WebApi.csproj|solutionrelative:cedhetec.limpia.demo.webapi\\controllers\\registerstudentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80E29AFC-B1A3-4D0A-9AC1-4968BAE42211}|CEDHETEC.LIMPIA.DEMO\\CEDHETEC.LIMPIA.DEMO.csproj|c:\\3. cedhetec\\3. cursos dictados\\2. arquitecturta limpia\\cedhetec.limpia.demo\\cedhetec.limpia.demo\\cedhetec.limpia.demo\\interfaces\\iregisterstudentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80E29AFC-B1A3-4D0A-9AC1-4968BAE42211}|CEDHETEC.LIMPIA.DEMO\\CEDHETEC.LIMPIA.DEMO.csproj|solutionrelative:cedhetec.limpia.demo\\interfaces\\iregisterstudentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A70EDC6-8653-4F35-A457-614E606C3F2D}|CEDHETEC.LIMPIA.DEMO.WebApi\\CEDHETEC.LIMPIA.DEMO.WebApi.csproj|c:\\3. cedhetec\\3. cursos dictados\\2. arquitecturta limpia\\cedhetec.limpia.demo\\cedhetec.limpia.demo\\cedhetec.limpia.demo.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A70EDC6-8653-4F35-A457-614E606C3F2D}|CEDHETEC.LIMPIA.DEMO.WebApi\\CEDHETEC.LIMPIA.DEMO.WebApi.csproj|solutionrelative:cedhetec.limpia.demo.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A6E7443-0068-4AAF-B1E0-021EB01D5CD5}|CEDHETEC.LIMPIA.DEMO.PersistenceEFCore\\CEDHETEC.LIMPIA.DEMO.PersistenceEFCore.csproj|c:\\3. cedhetec\\3. cursos dictados\\2. arquitecturta limpia\\cedhetec.limpia.demo\\cedhetec.limpia.demo\\cedhetec.limpia.demo.persistenceefcore\\dependencycontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A6E7443-0068-4AAF-B1E0-021EB01D5CD5}|CEDHETEC.LIMPIA.DEMO.PersistenceEFCore\\CEDHETEC.LIMPIA.DEMO.PersistenceEFCore.csproj|solutionrelative:cedhetec.limpia.demo.persistenceefcore\\dependencycontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80E29AFC-B1A3-4D0A-9AC1-4968BAE42211}|CEDHETEC.LIMPIA.DEMO\\CEDHETEC.LIMPIA.DEMO.Controllers.csproj|c:\\3. cedhetec\\3. cursos dictados\\2. arquitecturta limpia\\cedhetec.limpia.demo\\cedhetec.limpia.demo\\cedhetec.limpia.demo\\dependencycontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80E29AFC-B1A3-4D0A-9AC1-4968BAE42211}|CEDHETEC.LIMPIA.DEMO\\CEDHETEC.LIMPIA.DEMO.Controllers.csproj|solutionrelative:cedhetec.limpia.demo\\dependencycontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{710DEA62-D9B3-4722-A66B-8FB0DE7B0641}|CEDHETEC.LIMPIA.DEMO.Presenters\\CEDHETEC.LIMPIA.DEMO.Presenters.csproj|c:\\3. cedhetec\\3. cursos dictados\\2. arquitecturta limpia\\cedhetec.limpia.demo\\cedhetec.limpia.demo\\cedhetec.limpia.demo.presenters\\registerstudentpresenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{710DEA62-D9B3-4722-A66B-8FB0DE7B0641}|CEDHETEC.LIMPIA.DEMO.Presenters\\CEDHETEC.LIMPIA.DEMO.Presenters.csproj|solutionrelative:cedhetec.limpia.demo.presenters\\registerstudentpresenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{710DEA62-D9B3-4722-A66B-8FB0DE7B0641}|CEDHETEC.LIMPIA.DEMO.Presenters\\CEDHETEC.LIMPIA.DEMO.Presenters.csproj|c:\\3. cedhetec\\3. cursos dictados\\2. arquitecturta limpia\\cedhetec.limpia.demo\\cedhetec.limpia.demo\\cedhetec.limpia.demo.presenters\\dependencycontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{710DEA62-D9B3-4722-A66B-8FB0DE7B0641}|CEDHETEC.LIMPIA.DEMO.Presenters\\CEDHETEC.LIMPIA.DEMO.Presenters.csproj|solutionrelative:cedhetec.limpia.demo.presenters\\dependencycontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{030A17C5-12F2-4F36-9168-05DAA8D0C430}|CEDHETEC.LIMPIA.DEMO.UseCases\\CEDHETEC.LIMPIA.DEMO.UseCases.csproj|c:\\3. cedhetec\\3. cursos dictados\\2. arquitecturta limpia\\cedhetec.limpia.demo\\cedhetec.limpia.demo\\cedhetec.limpia.demo.usecases\\dependencycontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{030A17C5-12F2-4F36-9168-05DAA8D0C430}|CEDHETEC.LIMPIA.DEMO.UseCases\\CEDHETEC.LIMPIA.DEMO.UseCases.csproj|solutionrelative:cedhetec.limpia.demo.usecases\\dependencycontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80E29AFC-B1A3-4D0A-9AC1-4968BAE42211}|CEDHETEC.LIMPIA.DEMO\\CEDHETEC.LIMPIA.DEMO.csproj|c:\\3. cedhetec\\3. cursos dictados\\2. arquitecturta limpia\\cedhetec.limpia.demo\\cedhetec.limpia.demo\\cedhetec.limpia.demo\\implements\\registerstudentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80E29AFC-B1A3-4D0A-9AC1-4968BAE42211}|CEDHETEC.LIMPIA.DEMO\\CEDHETEC.LIMPIA.DEMO.csproj|solutionrelative:cedhetec.limpia.demo\\implements\\registerstudentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{710DEA62-D9B3-4722-A66B-8FB0DE7B0641}|CEDHETEC.LIMPIA.DEMO.Presenters\\CEDHETEC.LIMPIA.DEMO.Presenters.csproj|c:\\3. cedhetec\\3. cursos dictados\\2. arquitecturta limpia\\cedhetec.limpia.demo\\cedhetec.limpia.demo\\cedhetec.limpia.demo.presenters\\ipresenters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{710DEA62-D9B3-4722-A66B-8FB0DE7B0641}|CEDHETEC.LIMPIA.DEMO.Presenters\\CEDHETEC.LIMPIA.DEMO.Presenters.csproj|solutionrelative:cedhetec.limpia.demo.presenters\\ipresenters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C3C93CD-106B-4A2A-B54B-108E2E68D2D0}|CEDHETEC.LIMPIA.DEMO.UseCases.Ports\\CEDHETEC.LIMPIA.DEMO.UseCases.Ports.csproj|c:\\3. cedhetec\\3. cursos dictados\\2. arquitecturta limpia\\cedhetec.limpia.demo\\cedhetec.limpia.demo\\cedhetec.limpia.demo.usecases.ports\\registerstudent\\iregisterstudentoutputport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C3C93CD-106B-4A2A-B54B-108E2E68D2D0}|CEDHETEC.LIMPIA.DEMO.UseCases.Ports\\CEDHETEC.LIMPIA.DEMO.UseCases.Ports.csproj|solutionrelative:cedhetec.limpia.demo.usecases.ports\\registerstudent\\iregisterstudentoutputport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C3C93CD-106B-4A2A-B54B-108E2E68D2D0}|CEDHETEC.LIMPIA.DEMO.UseCases.Ports\\CEDHETEC.LIMPIA.DEMO.UseCases.Ports.csproj|c:\\3. cedhetec\\3. cursos dictados\\2. arquitecturta limpia\\cedhetec.limpia.demo\\cedhetec.limpia.demo\\cedhetec.limpia.demo.usecases.ports\\registerstudent\\iregisterstudentinputport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C3C93CD-106B-4A2A-B54B-108E2E68D2D0}|CEDHETEC.LIMPIA.DEMO.UseCases.Ports\\CEDHETEC.LIMPIA.DEMO.UseCases.Ports.csproj|solutionrelative:cedhetec.limpia.demo.usecases.ports\\registerstudent\\iregisterstudentinputport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C3C93CD-106B-4A2A-B54B-108E2E68D2D0}|CEDHETEC.LIMPIA.DEMO.UseCases.Ports\\CEDHETEC.LIMPIA.DEMO.UseCases.Ports.csproj|c:\\3. cedhetec\\3. cursos dictados\\2. arquitecturta limpia\\cedhetec.limpia.demo\\cedhetec.limpia.demo\\cedhetec.limpia.demo.usecases.ports\\registerstudent\\registerstudentrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C3C93CD-106B-4A2A-B54B-108E2E68D2D0}|CEDHETEC.LIMPIA.DEMO.UseCases.Ports\\CEDHETEC.LIMPIA.DEMO.UseCases.Ports.csproj|solutionrelative:cedhetec.limpia.demo.usecases.ports\\registerstudent\\registerstudentrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{030A17C5-12F2-4F36-9168-05DAA8D0C430}|CEDHETEC.LIMPIA.DEMO.UseCases\\CEDHETEC.LIMPIA.DEMO.UseCases.csproj|c:\\3. cedhetec\\3. cursos dictados\\2. arquitecturta limpia\\cedhetec.limpia.demo\\cedhetec.limpia.demo\\cedhetec.limpia.demo.usecases\\registerstudent\\registerstudentinteractor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{030A17C5-12F2-4F36-9168-05DAA8D0C430}|CEDHETEC.LIMPIA.DEMO.UseCases\\CEDHETEC.LIMPIA.DEMO.UseCases.csproj|solutionrelative:cedhetec.limpia.demo.usecases\\registerstudent\\registerstudentinteractor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{710DEA62-D9B3-4722-A66B-8FB0DE7B0641}|CEDHETEC.LIMPIA.DEMO.Presenters\\CEDHETEC.LIMPIA.DEMO.Presenters.csproj|c:\\3. cedhetec\\3. cursos dictados\\2. arquitecturta limpia\\cedhetec.limpia.demo\\cedhetec.limpia.demo\\cedhetec.limpia.demo.presenters\\cedhetec.limpia.demo.presenters.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{710DEA62-D9B3-4722-A66B-8FB0DE7B0641}|CEDHETEC.LIMPIA.DEMO.Presenters\\CEDHETEC.LIMPIA.DEMO.Presenters.csproj|solutionrelative:cedhetec.limpia.demo.presenters\\cedhetec.limpia.demo.presenters.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A6E7443-0068-4AAF-B1E0-021EB01D5CD5}|CEDHETEC.LIMPIA.DEMO.PersistenceEFCore\\CEDHETEC.LIMPIA.DEMO.PersistenceEFCore.csproj|c:\\3. cedhetec\\3. cursos dictados\\2. arquitecturta limpia\\cedhetec.limpia.demo\\cedhetec.limpia.demo\\cedhetec.limpia.demo.persistenceefcore\\repositories\\registerstudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A6E7443-0068-4AAF-B1E0-021EB01D5CD5}|CEDHETEC.LIMPIA.DEMO.PersistenceEFCore\\CEDHETEC.LIMPIA.DEMO.PersistenceEFCore.csproj|solutionrelative:cedhetec.limpia.demo.persistenceefcore\\repositories\\registerstudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A6E7443-0068-4AAF-B1E0-021EB01D5CD5}|CEDHETEC.LIMPIA.DEMO.PersistenceEFCore\\CEDHETEC.LIMPIA.DEMO.PersistenceEFCore.csproj|c:\\3. cedhetec\\3. cursos dictados\\2. arquitecturta limpia\\cedhetec.limpia.demo\\cedhetec.limpia.demo\\cedhetec.limpia.demo.persistenceefcore\\cedhetec.limpia.demo.persistenceefcore.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3A6E7443-0068-4AAF-B1E0-021EB01D5CD5}|CEDHETEC.LIMPIA.DEMO.PersistenceEFCore\\CEDHETEC.LIMPIA.DEMO.PersistenceEFCore.csproj|solutionrelative:cedhetec.limpia.demo.persistenceefcore\\cedhetec.limpia.demo.persistenceefcore.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB27A57C-E03B-420C-9D70-8DC30455BB8B}|CEDHETEC.LIMPIA.DEMO.Entities\\CEDHETEC.LIMPIA.DEMO.Entities.csproj|c:\\3. cedhetec\\3. cursos dictados\\2. arquitecturta limpia\\cedhetec.limpia.demo\\cedhetec.limpia.demo\\cedhetec.limpia.demo.entities\\repositories\\iregisterstudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB27A57C-E03B-420C-9D70-8DC30455BB8B}|CEDHETEC.LIMPIA.DEMO.Entities\\CEDHETEC.LIMPIA.DEMO.Entities.csproj|solutionrelative:cedhetec.limpia.demo.entities\\repositories\\iregisterstudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB27A57C-E03B-420C-9D70-8DC30455BB8B}|CEDHETEC.LIMPIA.DEMO.Entities\\CEDHETEC.LIMPIA.DEMO.Entities.csproj|c:\\3. cedhetec\\3. cursos dictados\\2. arquitecturta limpia\\cedhetec.limpia.demo\\cedhetec.limpia.demo\\cedhetec.limpia.demo.entities\\pocos\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB27A57C-E03B-420C-9D70-8DC30455BB8B}|CEDHETEC.LIMPIA.DEMO.Entities\\CEDHETEC.LIMPIA.DEMO.Entities.csproj|solutionrelative:cedhetec.limpia.demo.entities\\pocos\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RegisterStudentController.cs",
+              "DocumentMoniker": "C:\\3. Cedhetec\\3. Cursos dictados\\2. Arquitecturta limpia\\CEDHETEC.LIMPIA.DEMO\\CEDHETEC.LIMPIA.DEMO\\CEDHETEC.LIMPIA.DEMO.WebApi\\Controllers\\RegisterStudentController.cs",
+              "RelativeDocumentMoniker": "CEDHETEC.LIMPIA.DEMO.WebApi\\Controllers\\RegisterStudentController.cs",
+              "ToolTip": "C:\\3. Cedhetec\\3. Cursos dictados\\2. Arquitecturta limpia\\CEDHETEC.LIMPIA.DEMO\\CEDHETEC.LIMPIA.DEMO\\CEDHETEC.LIMPIA.DEMO.WebApi\\Controllers\\RegisterStudentController.cs",
+              "RelativeToolTip": "CEDHETEC.LIMPIA.DEMO.WebApi\\Controllers\\RegisterStudentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T03:19:46.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DependencyContainer.cs",
+              "DocumentMoniker": "C:\\3. Cedhetec\\3. Cursos dictados\\2. Arquitecturta limpia\\CEDHETEC.LIMPIA.DEMO\\CEDHETEC.LIMPIA.DEMO\\CEDHETEC.LIMPIA.DEMO\\DependencyContainer.cs",
+              "RelativeDocumentMoniker": "CEDHETEC.LIMPIA.DEMO\\DependencyContainer.cs",
+              "ToolTip": "C:\\3. Cedhetec\\3. Cursos dictados\\2. Arquitecturta limpia\\CEDHETEC.LIMPIA.DEMO\\CEDHETEC.LIMPIA.DEMO\\CEDHETEC.LIMPIA.DEMO\\DependencyContainer.cs",
+              "RelativeToolTip": "CEDHETEC.LIMPIA.DEMO\\DependencyContainer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T03:15:43.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\3. Cedhetec\\3. Cursos dictados\\2. Arquitecturta limpia\\CEDHETEC.LIMPIA.DEMO\\CEDHETEC.LIMPIA.DEMO\\CEDHETEC.LIMPIA.DEMO.WebApi\\Program.cs",
+              "RelativeDocumentMoniker": "CEDHETEC.LIMPIA.DEMO.WebApi\\Program.cs",
+              "ToolTip": "C:\\3. Cedhetec\\3. Cursos dictados\\2. Arquitecturta limpia\\CEDHETEC.LIMPIA.DEMO\\CEDHETEC.LIMPIA.DEMO\\CEDHETEC.LIMPIA.DEMO.WebApi\\Program.cs",
+              "RelativeToolTip": "CEDHETEC.LIMPIA.DEMO.WebApi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T03:15:00.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IRegisterStudentController.cs",
+              "DocumentMoniker": "C:\\3. Cedhetec\\3. Cursos dictados\\2. Arquitecturta limpia\\CEDHETEC.LIMPIA.DEMO\\CEDHETEC.LIMPIA.DEMO\\CEDHETEC.LIMPIA.DEMO\\Interfaces\\IRegisterStudentController.cs",
+              "RelativeDocumentMoniker": "CEDHETEC.LIMPIA.DEMO\\Interfaces\\IRegisterStudentController.cs",
+              "ToolTip": "C:\\3. Cedhetec\\3. Cursos dictados\\2. Arquitecturta limpia\\CEDHETEC.LIMPIA.DEMO\\CEDHETEC.LIMPIA.DEMO\\CEDHETEC.LIMPIA.DEMO\\Interfaces\\IRegisterStudentController.cs",
+              "RelativeToolTip": "CEDHETEC.LIMPIA.DEMO\\Interfaces\\IRegisterStudentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T03:07:40.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RegisterStudentPresenter.cs",
+              "DocumentMoniker": "C:\\3. Cedhetec\\3. Cursos dictados\\2. Arquitecturta limpia\\CEDHETEC.LIMPIA.DEMO\\CEDHETEC.LIMPIA.DEMO\\CEDHETEC.LIMPIA.DEMO.Presenters\\RegisterStudentPresenter.cs",
+              "RelativeDocumentMoniker": "CEDHETEC.LIMPIA.DEMO.Presenters\\RegisterStudentPresenter.cs",
+              "ToolTip": "C:\\3. Cedhetec\\3. Cursos dictados\\2. Arquitecturta limpia\\CEDHETEC.LIMPIA.DEMO\\CEDHETEC.LIMPIA.DEMO\\CEDHETEC.LIMPIA.DEMO.Presenters\\RegisterStudentPresenter.cs",
+              "RelativeToolTip": "CEDHETEC.LIMPIA.DEMO.Presenters\\RegisterStudentPresenter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T02:54:26.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DependencyContainer.cs",
+              "DocumentMoniker": "C:\\3. Cedhetec\\3. Cursos dictados\\2. Arquitecturta limpia\\CEDHETEC.LIMPIA.DEMO\\CEDHETEC.LIMPIA.DEMO\\CEDHETEC.LIMPIA.DEMO.UseCases\\DependencyContainer.cs",
+              "RelativeDocumentMoniker": "CEDHETEC.LIMPIA.DEMO.UseCases\\DependencyContainer.cs",
+              "ToolTip": "C:\\3. Cedhetec\\3. Cursos dictados\\2. Arquitecturta limpia\\CEDHETEC.LIMPIA.DEMO\\CEDHETEC.LIMPIA.DEMO\\CEDHETEC.LIMPIA.DEMO.UseCases\\DependencyContainer.cs",
+              "RelativeToolTip": "CEDHETEC.LIMPIA.DEMO.UseCases\\DependencyContainer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T03:03:59.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DependencyContainer.cs",
+              "DocumentMoniker": "C:\\3. Cedhetec\\3. Cursos dictados\\2. Arquitecturta limpia\\CEDHETEC.LIMPIA.DEMO\\CEDHETEC.LIMPIA.DEMO\\CEDHETEC.LIMPIA.DEMO.Presenters\\DependencyContainer.cs",
+              "RelativeDocumentMoniker": "CEDHETEC.LIMPIA.DEMO.Presenters\\DependencyContainer.cs",
+              "ToolTip": "C:\\3. Cedhetec\\3. Cursos dictados\\2. Arquitecturta limpia\\CEDHETEC.LIMPIA.DEMO\\CEDHETEC.LIMPIA.DEMO\\CEDHETEC.LIMPIA.DEMO.Presenters\\DependencyContainer.cs",
+              "RelativeToolTip": "CEDHETEC.LIMPIA.DEMO.Presenters\\DependencyContainer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T03:03:14.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DependencyContainer.cs",
+              "DocumentMoniker": "C:\\3. Cedhetec\\3. Cursos dictados\\2. Arquitecturta limpia\\CEDHETEC.LIMPIA.DEMO\\CEDHETEC.LIMPIA.DEMO\\CEDHETEC.LIMPIA.DEMO.PersistenceEFCore\\DependencyContainer.cs",
+              "RelativeDocumentMoniker": "CEDHETEC.LIMPIA.DEMO.PersistenceEFCore\\DependencyContainer.cs",
+              "ToolTip": "C:\\3. Cedhetec\\3. Cursos dictados\\2. Arquitecturta limpia\\CEDHETEC.LIMPIA.DEMO\\CEDHETEC.LIMPIA.DEMO\\CEDHETEC.LIMPIA.DEMO.PersistenceEFCore\\DependencyContainer.cs",
+              "RelativeToolTip": "CEDHETEC.LIMPIA.DEMO.PersistenceEFCore\\DependencyContainer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T02:46:23.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RegisterStudentController.cs",
+              "DocumentMoniker": "C:\\3. Cedhetec\\3. Cursos dictados\\2. Arquitecturta limpia\\CEDHETEC.LIMPIA.DEMO\\CEDHETEC.LIMPIA.DEMO\\CEDHETEC.LIMPIA.DEMO\\Implements\\RegisterStudentController.cs",
+              "RelativeDocumentMoniker": "CEDHETEC.LIMPIA.DEMO\\Implements\\RegisterStudentController.cs",
+              "ToolTip": "C:\\3. Cedhetec\\3. Cursos dictados\\2. Arquitecturta limpia\\CEDHETEC.LIMPIA.DEMO\\CEDHETEC.LIMPIA.DEMO\\CEDHETEC.LIMPIA.DEMO\\Implements\\RegisterStudentController.cs",
+              "RelativeToolTip": "CEDHETEC.LIMPIA.DEMO\\Implements\\RegisterStudentController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABwAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T03:09:10.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IPresenters.cs",
+              "DocumentMoniker": "C:\\3. Cedhetec\\3. Cursos dictados\\2. Arquitecturta limpia\\CEDHETEC.LIMPIA.DEMO\\CEDHETEC.LIMPIA.DEMO\\CEDHETEC.LIMPIA.DEMO.Presenters\\IPresenters.cs",
+              "RelativeDocumentMoniker": "CEDHETEC.LIMPIA.DEMO.Presenters\\IPresenters.cs",
+              "ToolTip": "C:\\3. Cedhetec\\3. Cursos dictados\\2. Arquitecturta limpia\\CEDHETEC.LIMPIA.DEMO\\CEDHETEC.LIMPIA.DEMO\\CEDHETEC.LIMPIA.DEMO.Presenters\\IPresenters.cs",
+              "RelativeToolTip": "CEDHETEC.LIMPIA.DEMO.Presenters\\IPresenters.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T02:53:05.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IRegisterStudentOutputPort.cs",
+              "DocumentMoniker": "C:\\3. Cedhetec\\3. Cursos dictados\\2. Arquitecturta limpia\\CEDHETEC.LIMPIA.DEMO\\CEDHETEC.LIMPIA.DEMO\\CEDHETEC.LIMPIA.DEMO.UseCases.Ports\\RegisterStudent\\IRegisterStudentOutputPort.cs",
+              "RelativeDocumentMoniker": "CEDHETEC.LIMPIA.DEMO.UseCases.Ports\\RegisterStudent\\IRegisterStudentOutputPort.cs",
+              "ToolTip": "C:\\3. Cedhetec\\3. Cursos dictados\\2. Arquitecturta limpia\\CEDHETEC.LIMPIA.DEMO\\CEDHETEC.LIMPIA.DEMO\\CEDHETEC.LIMPIA.DEMO.UseCases.Ports\\RegisterStudent\\IRegisterStudentOutputPort.cs",
+              "RelativeToolTip": "CEDHETEC.LIMPIA.DEMO.UseCases.Ports\\RegisterStudent\\IRegisterStudentOutputPort.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T02:10:54.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IRegisterStudentInputPort.cs",
+              "DocumentMoniker": "C:\\3. Cedhetec\\3. Cursos dictados\\2. Arquitecturta limpia\\CEDHETEC.LIMPIA.DEMO\\CEDHETEC.LIMPIA.DEMO\\CEDHETEC.LIMPIA.DEMO.UseCases.Ports\\RegisterStudent\\IRegisterStudentInputPort.cs",
+              "RelativeDocumentMoniker": "CEDHETEC.LIMPIA.DEMO.UseCases.Ports\\RegisterStudent\\IRegisterStudentInputPort.cs",
+              "ToolTip": "C:\\3. Cedhetec\\3. Cursos dictados\\2. Arquitecturta limpia\\CEDHETEC.LIMPIA.DEMO\\CEDHETEC.LIMPIA.DEMO\\CEDHETEC.LIMPIA.DEMO.UseCases.Ports\\RegisterStudent\\IRegisterStudentInputPort.cs",
+              "RelativeToolTip": "CEDHETEC.LIMPIA.DEMO.UseCases.Ports\\RegisterStudent\\IRegisterStudentInputPort.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T02:10:25.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CEDHETEC.LIMPIA.DEMO.Presenters",
+              "DocumentMoniker": "C:\\3. Cedhetec\\3. Cursos dictados\\2. Arquitecturta limpia\\CEDHETEC.LIMPIA.DEMO\\CEDHETEC.LIMPIA.DEMO\\CEDHETEC.LIMPIA.DEMO.Presenters\\CEDHETEC.LIMPIA.DEMO.Presenters.csproj",
+              "RelativeDocumentMoniker": "CEDHETEC.LIMPIA.DEMO.Presenters\\CEDHETEC.LIMPIA.DEMO.Presenters.csproj",
+              "ToolTip": "C:\\3. Cedhetec\\3. Cursos dictados\\2. Arquitecturta limpia\\CEDHETEC.LIMPIA.DEMO\\CEDHETEC.LIMPIA.DEMO\\CEDHETEC.LIMPIA.DEMO.Presenters\\CEDHETEC.LIMPIA.DEMO.Presenters.csproj",
+              "RelativeToolTip": "CEDHETEC.LIMPIA.DEMO.Presenters\\CEDHETEC.LIMPIA.DEMO.Presenters.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-20T03:02:54.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "RegisterStudentRequestDto.cs",
+              "DocumentMoniker": "C:\\3. Cedhetec\\3. Cursos dictados\\2. Arquitecturta limpia\\CEDHETEC.LIMPIA.DEMO\\CEDHETEC.LIMPIA.DEMO\\CEDHETEC.LIMPIA.DEMO.UseCases.Ports\\RegisterStudent\\RegisterStudentRequestDto.cs",
+              "RelativeDocumentMoniker": "CEDHETEC.LIMPIA.DEMO.UseCases.Ports\\RegisterStudent\\RegisterStudentRequestDto.cs",
+              "ToolTip": "C:\\3. Cedhetec\\3. Cursos dictados\\2. Arquitecturta limpia\\CEDHETEC.LIMPIA.DEMO\\CEDHETEC.LIMPIA.DEMO\\CEDHETEC.LIMPIA.DEMO.UseCases.Ports\\RegisterStudent\\RegisterStudentRequestDto.cs",
+              "RelativeToolTip": "CEDHETEC.LIMPIA.DEMO.UseCases.Ports\\RegisterStudent\\RegisterStudentRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T02:24:06.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CEDHETEC.LIMPIA.DEMO.PersistenceEFCore.csproj",
+              "DocumentMoniker": "C:\\3. Cedhetec\\3. Cursos dictados\\2. Arquitecturta limpia\\CEDHETEC.LIMPIA.DEMO\\CEDHETEC.LIMPIA.DEMO\\CEDHETEC.LIMPIA.DEMO.PersistenceEFCore\\CEDHETEC.LIMPIA.DEMO.PersistenceEFCore.csproj",
+              "RelativeDocumentMoniker": "CEDHETEC.LIMPIA.DEMO.PersistenceEFCore\\CEDHETEC.LIMPIA.DEMO.PersistenceEFCore.csproj",
+              "ToolTip": "C:\\3. Cedhetec\\3. Cursos dictados\\2. Arquitecturta limpia\\CEDHETEC.LIMPIA.DEMO\\CEDHETEC.LIMPIA.DEMO\\CEDHETEC.LIMPIA.DEMO.PersistenceEFCore\\CEDHETEC.LIMPIA.DEMO.PersistenceEFCore.csproj",
+              "RelativeToolTip": "CEDHETEC.LIMPIA.DEMO.PersistenceEFCore\\CEDHETEC.LIMPIA.DEMO.PersistenceEFCore.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-20T02:46:12.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "RegisterStudentInteractor.cs",
+              "DocumentMoniker": "C:\\3. Cedhetec\\3. Cursos dictados\\2. Arquitecturta limpia\\CEDHETEC.LIMPIA.DEMO\\CEDHETEC.LIMPIA.DEMO\\CEDHETEC.LIMPIA.DEMO.UseCases\\RegisterStudent\\RegisterStudentInteractor.cs",
+              "RelativeDocumentMoniker": "CEDHETEC.LIMPIA.DEMO.UseCases\\RegisterStudent\\RegisterStudentInteractor.cs",
+              "ToolTip": "C:\\3. Cedhetec\\3. Cursos dictados\\2. Arquitecturta limpia\\CEDHETEC.LIMPIA.DEMO\\CEDHETEC.LIMPIA.DEMO\\CEDHETEC.LIMPIA.DEMO.UseCases\\RegisterStudent\\RegisterStudentInteractor.cs",
+              "RelativeToolTip": "CEDHETEC.LIMPIA.DEMO.UseCases\\RegisterStudent\\RegisterStudentInteractor.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAYAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T02:20:48.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "RegisterStudentRepository.cs",
+              "DocumentMoniker": "C:\\3. Cedhetec\\3. Cursos dictados\\2. Arquitecturta limpia\\CEDHETEC.LIMPIA.DEMO\\CEDHETEC.LIMPIA.DEMO\\CEDHETEC.LIMPIA.DEMO.PersistenceEFCore\\Repositories\\RegisterStudentRepository.cs",
+              "RelativeDocumentMoniker": "CEDHETEC.LIMPIA.DEMO.PersistenceEFCore\\Repositories\\RegisterStudentRepository.cs",
+              "ToolTip": "C:\\3. Cedhetec\\3. Cursos dictados\\2. Arquitecturta limpia\\CEDHETEC.LIMPIA.DEMO\\CEDHETEC.LIMPIA.DEMO\\CEDHETEC.LIMPIA.DEMO.PersistenceEFCore\\Repositories\\RegisterStudentRepository.cs",
+              "RelativeToolTip": "CEDHETEC.LIMPIA.DEMO.PersistenceEFCore\\Repositories\\RegisterStudentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T02:43:38.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IRegisterStudentRepository.cs",
+              "DocumentMoniker": "C:\\3. Cedhetec\\3. Cursos dictados\\2. Arquitecturta limpia\\CEDHETEC.LIMPIA.DEMO\\CEDHETEC.LIMPIA.DEMO\\CEDHETEC.LIMPIA.DEMO.Entities\\Repositories\\IRegisterStudentRepository.cs",
+              "RelativeDocumentMoniker": "CEDHETEC.LIMPIA.DEMO.Entities\\Repositories\\IRegisterStudentRepository.cs",
+              "ToolTip": "C:\\3. Cedhetec\\3. Cursos dictados\\2. Arquitecturta limpia\\CEDHETEC.LIMPIA.DEMO\\CEDHETEC.LIMPIA.DEMO\\CEDHETEC.LIMPIA.DEMO.Entities\\Repositories\\IRegisterStudentRepository.cs",
+              "RelativeToolTip": "CEDHETEC.LIMPIA.DEMO.Entities\\Repositories\\IRegisterStudentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T02:19:14.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\3. Cedhetec\\3. Cursos dictados\\2. Arquitecturta limpia\\CEDHETEC.LIMPIA.DEMO\\CEDHETEC.LIMPIA.DEMO\\CEDHETEC.LIMPIA.DEMO.Entities\\POCOs\\Student.cs",
+              "RelativeDocumentMoniker": "CEDHETEC.LIMPIA.DEMO.Entities\\POCOs\\Student.cs",
+              "ToolTip": "C:\\3. Cedhetec\\3. Cursos dictados\\2. Arquitecturta limpia\\CEDHETEC.LIMPIA.DEMO\\CEDHETEC.LIMPIA.DEMO\\CEDHETEC.LIMPIA.DEMO.Entities\\POCOs\\Student.cs",
+              "RelativeToolTip": "CEDHETEC.LIMPIA.DEMO.Entities\\POCOs\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T02:04:03.469Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

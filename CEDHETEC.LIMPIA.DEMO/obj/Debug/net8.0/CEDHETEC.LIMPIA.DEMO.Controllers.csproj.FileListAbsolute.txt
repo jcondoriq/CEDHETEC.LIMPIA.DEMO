@@ -1,0 +1,17 @@
+C:\3. Cedhetec\3. Cursos dictados\2. Arquitecturta limpia\CEDHETEC.LIMPIA.DEMO\CEDHETEC.LIMPIA.DEMO\CEDHETEC.LIMPIA.DEMO\bin\Debug\net8.0\CEDHETEC.LIMPIA.DEMO.Controllers.deps.json
+C:\3. Cedhetec\3. Cursos dictados\2. Arquitecturta limpia\CEDHETEC.LIMPIA.DEMO\CEDHETEC.LIMPIA.DEMO\CEDHETEC.LIMPIA.DEMO\bin\Debug\net8.0\CEDHETEC.LIMPIA.DEMO.Controllers.dll
+C:\3. Cedhetec\3. Cursos dictados\2. Arquitecturta limpia\CEDHETEC.LIMPIA.DEMO\CEDHETEC.LIMPIA.DEMO\CEDHETEC.LIMPIA.DEMO\bin\Debug\net8.0\CEDHETEC.LIMPIA.DEMO.Controllers.pdb
+C:\3. Cedhetec\3. Cursos dictados\2. Arquitecturta limpia\CEDHETEC.LIMPIA.DEMO\CEDHETEC.LIMPIA.DEMO\CEDHETEC.LIMPIA.DEMO\bin\Debug\net8.0\CEDHETEC.LIMPIA.DEMO.Presenters.dll
+C:\3. Cedhetec\3. Cursos dictados\2. Arquitecturta limpia\CEDHETEC.LIMPIA.DEMO\CEDHETEC.LIMPIA.DEMO\CEDHETEC.LIMPIA.DEMO\bin\Debug\net8.0\CEDHETEC.LIMPIA.DEMO.UseCases.Ports.dll
+C:\3. Cedhetec\3. Cursos dictados\2. Arquitecturta limpia\CEDHETEC.LIMPIA.DEMO\CEDHETEC.LIMPIA.DEMO\CEDHETEC.LIMPIA.DEMO\bin\Debug\net8.0\CEDHETEC.LIMPIA.DEMO.Presenters.pdb
+C:\3. Cedhetec\3. Cursos dictados\2. Arquitecturta limpia\CEDHETEC.LIMPIA.DEMO\CEDHETEC.LIMPIA.DEMO\CEDHETEC.LIMPIA.DEMO\bin\Debug\net8.0\CEDHETEC.LIMPIA.DEMO.UseCases.Ports.pdb
+C:\3. Cedhetec\3. Cursos dictados\2. Arquitecturta limpia\CEDHETEC.LIMPIA.DEMO\CEDHETEC.LIMPIA.DEMO\CEDHETEC.LIMPIA.DEMO\obj\Debug\net8.0\CEDHETEC.LIMPIA.DEMO.Controllers.csproj.AssemblyReference.cache
+C:\3. Cedhetec\3. Cursos dictados\2. Arquitecturta limpia\CEDHETEC.LIMPIA.DEMO\CEDHETEC.LIMPIA.DEMO\CEDHETEC.LIMPIA.DEMO\obj\Debug\net8.0\CEDHETEC.LIMPIA.DEMO.Controllers.GeneratedMSBuildEditorConfig.editorconfig
+C:\3. Cedhetec\3. Cursos dictados\2. Arquitecturta limpia\CEDHETEC.LIMPIA.DEMO\CEDHETEC.LIMPIA.DEMO\CEDHETEC.LIMPIA.DEMO\obj\Debug\net8.0\CEDHETEC.LIMPIA.DEMO.Controllers.AssemblyInfoInputs.cache
+C:\3. Cedhetec\3. Cursos dictados\2. Arquitecturta limpia\CEDHETEC.LIMPIA.DEMO\CEDHETEC.LIMPIA.DEMO\CEDHETEC.LIMPIA.DEMO\obj\Debug\net8.0\CEDHETEC.LIMPIA.DEMO.Controllers.AssemblyInfo.cs
+C:\3. Cedhetec\3. Cursos dictados\2. Arquitecturta limpia\CEDHETEC.LIMPIA.DEMO\CEDHETEC.LIMPIA.DEMO\CEDHETEC.LIMPIA.DEMO\obj\Debug\net8.0\CEDHETEC.LIMPIA.DEMO.Controllers.csproj.CoreCompileInputs.cache
+C:\3. Cedhetec\3. Cursos dictados\2. Arquitecturta limpia\CEDHETEC.LIMPIA.DEMO\CEDHETEC.LIMPIA.DEMO\CEDHETEC.LIMPIA.DEMO\obj\Debug\net8.0\CEDHETEC.34A3F331.Up2Date
+C:\3. Cedhetec\3. Cursos dictados\2. Arquitecturta limpia\CEDHETEC.LIMPIA.DEMO\CEDHETEC.LIMPIA.DEMO\CEDHETEC.LIMPIA.DEMO\obj\Debug\net8.0\CEDHETEC.LIMPIA.DEMO.Controllers.dll
+C:\3. Cedhetec\3. Cursos dictados\2. Arquitecturta limpia\CEDHETEC.LIMPIA.DEMO\CEDHETEC.LIMPIA.DEMO\CEDHETEC.LIMPIA.DEMO\obj\Debug\net8.0\refint\CEDHETEC.LIMPIA.DEMO.Controllers.dll
+C:\3. Cedhetec\3. Cursos dictados\2. Arquitecturta limpia\CEDHETEC.LIMPIA.DEMO\CEDHETEC.LIMPIA.DEMO\CEDHETEC.LIMPIA.DEMO\obj\Debug\net8.0\CEDHETEC.LIMPIA.DEMO.Controllers.pdb
+C:\3. Cedhetec\3. Cursos dictados\2. Arquitecturta limpia\CEDHETEC.LIMPIA.DEMO\CEDHETEC.LIMPIA.DEMO\CEDHETEC.LIMPIA.DEMO\obj\Debug\net8.0\ref\CEDHETEC.LIMPIA.DEMO.Controllers.dll

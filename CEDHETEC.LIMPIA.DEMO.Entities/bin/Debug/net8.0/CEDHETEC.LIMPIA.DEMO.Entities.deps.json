@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "CEDHETEC.LIMPIA.DEMO.Entities/1.0.0": {
+        "runtime": {
+          "CEDHETEC.LIMPIA.DEMO.Entities.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CEDHETEC.LIMPIA.DEMO.Entities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

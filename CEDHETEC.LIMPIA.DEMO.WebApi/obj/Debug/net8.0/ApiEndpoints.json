@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "CEDHETEC.LIMPIA.DEMO.WebApi.Controllers.RegisterStudentController",
+    "Method": "RegisterStudent",
+    "RelativePath": "api/RegisterStudent",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "registerStudentRequestDto",
+        "Type": "CEDHETEC.LIMPIA.DEMO.UseCases.Ports.RegisterStudent.RegisterStudentRequestDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
